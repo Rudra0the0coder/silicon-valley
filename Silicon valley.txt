@@ -1,0 +1,14 @@
+         
+                     Infinite Game
+
+
+              ● Characters (PC and NPC) - Surfer.
+                                                                             
+              ● Story - A man has to surf and he have to face problems of                      hurricane,not let his surfboard stuck in water algae jump when                 cliffs came not strike with rocks and he have to get the                       treasure box
+                                                                                             ● Goals - to get different surfboards
+                                                                                             ● Rules -he have to face problems of hurricane,not let his                       surfboard stuck in water algae jump when  cliffs came not                      strike with rocks and to get different surfboards.And if he                    will complete 3000 score then he is only able to go an island
+                                                                                             ● Balance - yes
+                                                                                             ● Adaptivity -  Medium                                                                   
+              ● Chance vs Skill -  obstacle appear randomly he have to not let                 his surfboard strike with obstales it have a scoring system                 depends on his distance he covered                                                       
+
+              ● Feedback - If he completed (1cm =10m) 1000m of distance then                 he will get new surf board after 3000m new surfboard 5000m new                 surfboard and the 7000m last new surfboard and it will show                 his/her last high score
